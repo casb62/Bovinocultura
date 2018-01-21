@@ -1,0 +1,2 @@
+123.456.789-10;boiada;usuario padrao;false;12.345.678-9;
+1;1;Teste;false;00.000.000-9;

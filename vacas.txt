@@ -1,0 +1,6 @@
+100;fêmea;01/01/2014;1431;0;false;false;false;null      ;null      ;2;true;
+200;fêmea;02/01/2014;1430;0;false;false;false;null      ;null      ;2;true;
+300;fêmea;03/01/2014;1429;0;false;false;false;null      ;null      ;1;true;
+400;fêmea;04/01/2014;99;0;false;false;true;null      ;null      ;0;true;
+500;fêmea;05/01/2014;1427;0;false;false;false;null      ;null      ;1;true;
+600;fêmea;21/08/2017;103;100;true;false;false;null      ;null      ;0;false;

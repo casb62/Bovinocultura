@@ -1,0 +1,11 @@
+1;macho;01/01/2017;335;100;true;false;false;null      ;null      ;
+2;macho;02/01/2017;334;200;true;false;false;null      ;null      ;
+3;macho;03/01/2017;333;300;true;false;false;null      ;null      ;
+4;macho;04/01/2017;99;400;true;true;false;null      ;null      ;
+5;macho;05/01/2017;218;500;true;true;false;10/08/2017;null      ;
+6;macho;20/08/2017;104;200;true;false;false;null      ;null      ;
+7;macho;21/08/2017;103;100;true;false;false;null      ;null      ;
+8;macho;21/08/2017;103;300;true;false;false;null      ;null      ;
+9;macho;21/08/2017;103;500;true;false;false;null      ;null      ;
+10;macho;21/08/2017;103;200;true;false;false;null      ;null      ;
+11;macho;13/10/2017;50;600;true;false;false;null      ;null      ;
